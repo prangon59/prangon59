@@ -43,13 +43,13 @@ I'm Sakib Hassan, a passionate Cybersecurity and Networking enthusiast with Linu
 
 ## 💻 Projects
 
-- **[Project 1](https://github.com/janedoe/project1)**: A web application that allows users to track their fitness goals.
+- **[Project 1](https://github.com/janedoe/project1)**: 5 implementations of Cisco CCNA packet tracer projects.
 - **[Project 2](https://github.com/janedoe/project2)**: A real-time chat app built with Node.js and Socket.io.
 
 ## 📫 How to Reach Me
 
-- [![Email]: [hassansakib175@gmail.com](mailto:hassansakib175@gmail.com)
-- [![LinkedIn]:[Sakib Hassan](https://www.linkedin.com/in/prangon59/)
+- Email: [hassansakib175@gmail.com](mailto:hassansakib175@gmail.com)
+- LinkedIn:[Sakib Hassan](https://www.linkedin.com/in/prangon59/)
 
 ## ⚡ Fun Facts
 
