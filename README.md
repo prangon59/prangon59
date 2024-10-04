@@ -1,14 +1,45 @@
 # Hi there 👋
-https://private-user-images.githubusercontent.com/99729861/255973919-9e396477-3974-43cc-aab1-f41c7d94fcbe.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjgwNTEzMzQsIm5iZiI6MTcyODA1MTAzNCwicGF0aCI6Ii85OTcyOTg2MS8yNTU5NzM5MTktOWUzOTY0NzctMzk3NC00M2NjLWFhYjEtZjQxYzdkOTRmY2JlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMDQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDA0VDE0MTAzNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWVmZTJkMWUxY2RkMTUzOTdjYWIzZmUwNzgwMGU3YWYzMjMwMTMzYTY2MzhhYjAxN2EwNDBkMzJjNDBjNzczZTQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.KslicjWEPGaUFmmhuYVak0TfC2I-5S339WrGLxoORmU
 
 I'm Sakib Hassan, a passionate Cybersecurity and Networking enthusiast with Linux IT administration and Penetration Testing skills from Bangladesh. Currently, I am also learning the Full Stack Web Development to cope up with the technologies. I love learning and exploring new technologies.
 
 ## 🔧 Technologies & Tools
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+### Web Development
+![HTML5](https://img.shields.io/badge/HTML5-333333?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-333333?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=for-the-badge&logo=javascript)
+![Node.js](https://img.shields.io/badge/Node.js-333333?style=for-the-badge&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-333333?style=for-the-badge&logo=express)
+![EJS](https://img.shields.io/badge/EJS-333333?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-333333?style=for-the-badge&logo=react)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-333333?style=for-the-badge&logo=postgresql)
+![Git](https://img.shields.io/badge/Git-333333?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github)
+
+### Scripting & Operating Systems
+![Bash](https://img.shields.io/badge/Bash-333333?style=for-the-badge&logo=gnu-bash)
+![Linux](https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux)
+![Windows](https://img.shields.io/badge/Windows-333333?style=for-the-badge&logo=windows)
+![CLI](https://img.shields.io/badge/CLI-333333?style=for-the-badge&logo=windowsterminal)
+
+### Cybersecurity Tools
+![Nessus](https://img.shields.io/badge/Nessus-333333?style=for-the-badge&logo=tenable)
+![Nikto](https://img.shields.io/badge/-Nikto-333333?style=flat&logo=linux)
+![Metasploit](https://img.shields.io/badge/Metasploit-333333?style=for-the-badge&logo=metasploit)
+![Nmap](https://img.shields.io/badge/Nmap-333333?style=for-the-badge&logo=nmap)
+![Splunk](https://img.shields.io/badge/Splunk-333333?style=for-the-badge&logo=splunk)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-333333?style=for-the-badge&logo=burpsuite)
+![Wireshark](https://img.shields.io/badge/Wireshark-333333?style=for-the-badge&logo=wireshark)
+
+## 🎓 Certifications & Training
+
+1. **CCNA** - Cisco Certified Academy (KUET)
+2. **The Complete Full Stack Web Development BootCamp** - Udemy
+3. **Linux Administration: The Complete Linux BootCamp** - Udemy
+4. **Google Cybersecurity Professional Certificate** - Coursera
+5. **Akamai Network Engineering Professional Certificate** - Coursera
+6. **Cybersecurity Attack and Defense Fundamentals Specialization** - EC-Council (Coursera)
 
 ## 💻 Projects
 
@@ -19,7 +50,6 @@ I'm Sakib Hassan, a passionate Cybersecurity and Networking enthusiast with Linu
 
 - Email: [hassansakib175@gmail.com](mailto:jane.doe@example.com)
 - LinkedIn: [Sakib Hassan](https://www.linkedin.com/in/prangon59/)
-- Twitter: [@janedoe](https://twitter.com/janedoe)
 
 ## ⚡ Fun Facts
 
