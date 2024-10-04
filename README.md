@@ -48,8 +48,8 @@ I'm Sakib Hassan, a passionate Cybersecurity and Networking enthusiast with Linu
 
 ## 📫 How to Reach Me
 
-- Email: [hassansakib175@gmail.com](mailto:jane.doe@example.com)
-- LinkedIn: [Sakib Hassan](https://www.linkedin.com/in/prangon59/)
+- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)[hassansakib175@gmail.com](mailto:hassansakib175@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/) [Sakib Hassan](https://www.linkedin.com/in/prangon59/)
 
 ## ⚡ Fun Facts
 
