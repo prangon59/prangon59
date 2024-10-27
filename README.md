@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Sakib Hassan, a passionate Cybersecurity and Networking enthusiast with Linux IT administration and Penetration Testing skills from Bangladesh. Currently, I am also learning the Full Stack Web Development to cope up with the technologies. I love learning and exploring new technologies.
+I'm Sakib Hassan, a passionate cybersecurity and networking enthusiast from Bangladesh with Linux IT administration and penetration testing skills. I am also learning the Full Stack Web Development to cope with the technologies. I love learning and exploring new technologies.
 
 ## 🔧 Technologies & Tools
 
@@ -43,8 +43,8 @@ I'm Sakib Hassan, a passionate Cybersecurity and Networking enthusiast with Linu
 
 ## 💻 Projects
 
-- **[Project 1](https://github.com/janedoe/project1)**: 5 implementations of Cisco CCNA packet tracer projects.
-- **[Project 2](https://github.com/janedoe/project2)**: A real-time chat app built with Node.js and Socket.io.
+- **[Project 1](https://github.com/prangon59/cisco-ccna-practical-projects)**: 5 implementations of Cisco CCNA packet tracer projects from **Basic** to **Advance**.
+- **[Project 2](https://github.com/prangon59/python-projects)**: A bunch of python projects that i used for learning its usability
 
 ## 📫 How to Reach Me
 
