@@ -35,8 +35,8 @@ I'm Sakib Hassan, a passionate cybersecurity and networking enthusiast from Bang
 ## 🎓 Certifications & Training
 
 1. **CCNA** - Cisco Certified Academy (KUET)
-2. **The Complete Full Stack Web Development BootCamp** - Udemy
-3. **Linux Administration: The Complete Linux BootCamp** - Udemy
+2. **Linux Administration: The Complete Linux BootCamp** - Udemy
+3. **The Complete Full Stack Web Development BootCamp** - Udemy
 4. **Google Cybersecurity Professional Certificate** - Coursera
 5. **Akamai Network Engineering Professional Certificate** - Coursera
 6. **Cybersecurity Attack and Defense Fundamentals Specialization** - EC-Council (Coursera)
